@@ -2,18 +2,21 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 
-<img align="right" height="150" src="https://media3.giphy.com/media/S60CrN9iMxFlyp7uM8/200w.gif?cid=6c09b95290wpvmawkvql85wp0tgg7poournb8ilqsry9meip&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royal-boy-md&label=Profile%20views&color=0e75b6&style=flat" alt="royal-boy-md" /> </p>
 
 
 <img align="right" height="150" src="https://media.licdn.com/dms/image/D4E22AQH_eXyob8F9YA/feedshare-shrink_800/0/1680695926214?e=1725494400&v=beta&t=zvNXuSJYZr0viZtTG21SJaJFs0rwNhmV-VatQ5KDVGE"  />
 
 
+<img align="right" height="150" src="https://camo.githubusercontent.com/e34348af3f1c09322e1a24c027544db7f7968cc67e290fe72ff471494b872710/68747470733a2f2f632e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966"  />
+
+
+<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1200/1*frJJ8v0uWOmtbdYO-JKXGw.gif"  />
+
+
 <img align="right" height="150" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"  />
 
-<img align="right" height="150" src="https://www.c-zentrix.com/images/solutions-page/whatsapp-us/whatsappImg_1pw.gif"  />
+
 
 - 🔭 I’m currently working on Developing [Developing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkautukkundan%2FAwesome-Profile-README-templates%2Fblob%2Fmaster%2FdevSouvik.md&psig=AOvVaw3zE7TFwEMpBT77M3HwLoWR&ust=1722861760375000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICTn6uu24cDFQAAAAAdAAAAABAE)
 
