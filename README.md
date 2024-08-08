@@ -11,14 +11,7 @@
 <img align="right" height="150" src="https://camo.githubusercontent.com/e34348af3f1c09322e1a24c027544db7f7968cc67e290fe72ff471494b872710/68747470733a2f2f632e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966"  />
 
 
-
-
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1200/1*frJJ8v0uWOmtbdYO-JKXGw.gif"  />
-
-
-
 <img align="right" height="150" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"  />
-
 
 
 - 🔭 I’m currently working on Developing [Developing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkautukkundan%2FAwesome-Profile-README-templates%2Fblob%2Fmaster%2FdevSouvik.md&psig=AOvVaw3zE7TFwEMpBT77M3HwLoWR&ust=1722861760375000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICTn6uu24cDFQAAAAAdAAAAABAE)
